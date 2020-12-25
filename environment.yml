@@ -1,0 +1,17 @@
+name: springboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - setuptools
+  - wheel
+  - invoke
+  - notebook
+  - jupyter_contrib_nbextensions
+  - requests
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - pip
